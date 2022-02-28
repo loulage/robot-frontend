@@ -1,6 +1,6 @@
 # Explore Mars!
 Small project to test my frontend skills!
-I also created a backend API to interact with this react project. :  
+I also created a backend API to interact with this react project. :  https://github.com/loulage/robot-back
 
 Steps to run this project:
 
