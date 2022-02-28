@@ -1,0 +1,25 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin: auto;
+    width: 80%;
+    height: auto;
+
+}
+
+.robotImg {
+  width: 50%;
+  margin: auto;
+
+}
+
+.tile {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  border:  solid rgb(201, 201, 201) 1px;
+  overflow: hidden;
+}

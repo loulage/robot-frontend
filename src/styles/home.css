@@ -1,0 +1,47 @@
+.home {
+  display: flex;
+  justify-content: space-around;
+  background-color: #2E294E;
+  padding: 5% 10% 5% 12% ;
+  height: 100vh;
+}
+
+.right{
+  margin-top: 10em;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+}
+
+.explore {
+  font-size: 4em;
+  color: white;
+}
+
+.mars {
+  font-size: 4em;
+  color: #D499B9
+}
+
+.board {
+  max-width: 100%;
+  max-height: auto;
+}
+
+@media (max-width: 800px) {
+  .home {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .right {
+    margin-top: 0;
+  }
+
+
+
+}

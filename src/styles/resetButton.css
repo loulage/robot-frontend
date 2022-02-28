@@ -1,0 +1,17 @@
+  .resetButton {
+    width: 30% !important;
+    margin: 1em 0 !important;
+    color: #ffff !important;
+    background-color: #D499B9  !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow:  2px 2px 0px 2px #000000 !important;
+  }
+  
+  .resetButton:hover {
+    color: #ffff !important;;
+    background-color: #D499B9 !important;;
+    border: 0 !important;;
+    border-radius: 0 !important;;
+    box-shadow:  6px 6px 0px 2px #000000 !important;
+  }
